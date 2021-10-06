@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umesh Badsara</h1>
 <h3 align="center">On The Path Of Coding ......</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sniper7sumit&label=Profile%20views&color=0e75b6&style=flat" alt="sniper7sumit" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sniper7sumit&label=Profile%20views&color=0e75b6&style=flat" alt="sniper7sumit" /> </p>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sniper7sumit" alt="sniper7sumit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sniper7sumit" alt="sniper7sumit" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sniper7sumit](https://github.com/Sniper7sumit)
 
