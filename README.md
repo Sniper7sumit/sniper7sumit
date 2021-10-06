@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sniper7sumit&label=Profile%20views&color=0e75b6&style=flat" alt="sniper7sumit" /> </p>
 
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sniper7sumit" alt="sniper7sumit" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16530733-Spotify-Premium-Campaign">
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sniper7sumit](https://github.com/Sniper7sumit)
 
